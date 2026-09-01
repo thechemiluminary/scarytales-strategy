@@ -1,3 +1,7 @@
 pulled_at,slug,created_time,views,unique_views,watch_fraction,ret_drop_s,ret_end_pct,duration_sec,bucket,emotion,gender,music,music_ok,score
-2026-08-31T13:10:10Z,the-basement-i-wasnt-supposed-to-see,2026-08-30T23:56:12+0000,0,0,0.1459,4.0,0.1961,121.2,60s+,confused,male,The_Clock_Strikes_Three.mp3,True,0.846
-2026-08-31T13:10:10Z,the-cop-who-wasnt,2026-08-31T02:08:59+0000,0,0,0.0925,3.0,0.0568,95.9,60s+,sad,male,The_Unsolved_Ledger.mp3,True,0.0
+2026-09-01T17:54:07Z,the-basement-i-wasnt-supposed-to-see,2026-08-30T23:56:12+0000,0,0,0.1376,4.0,0.1739,121.2,60s+,confused,male,The_Clock_Strikes_Three.mp3,True,0.846
+2026-09-01T17:54:07Z,the-cop-who-wasnt,2026-08-31T14:57:02+0000,0,0,0.1038,3.0,0.0745,86.2,60s+,confused,female,Beneath_the_Floorboards.mp3,True,0.414
+2026-09-01T17:54:07Z,the-open-motel-door,2026-08-31T14:57:02+0000,0,0,0.1038,3.0,0.0745,86.2,60s+,confused,female,Beneath_the_Floorboards.mp3,True,0.414
+2026-09-01T17:54:07Z,the-refrigerator-truck,2026-08-31T17:50:18+0000,0,0,0.1072,4.0,0.1605,101.3,60s+,confused,male,Tracing_the_Last_Footstep.mp3,True,0.665
+2026-09-01T17:54:07Z,the-smoke-detector-camera,2026-08-31T23:06:52+0000,0,0,0.0404,3.0,0.0333,117.8,60s+,confused,female,Tracing_the_Last_Footstep.mp3,True,0.0
+2026-09-01T17:54:07Z,the-fake-rideshare-driver,2026-09-01T17:51:09+0000,0,0,,,,109.7,60s+,tired,male,Under_The_Heavy_Ledger.mp3,True,0.423
